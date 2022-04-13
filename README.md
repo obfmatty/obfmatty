@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and front end development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me - trough my email or on twitter
+- 📫 How to reach me - through my email or on twitter
 
 <!---
 obfmatty/obfmatty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
